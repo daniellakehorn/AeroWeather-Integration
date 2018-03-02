@@ -13,6 +13,8 @@
 		3CD04B42204737E300698BFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CD04B40204737E300698BFE /* Main.storyboard */; };
 		3CD04B44204737E300698BFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CD04B43204737E300698BFE /* Assets.xcassets */; };
 		3CD04B47204737E300698BFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CD04B45204737E300698BFE /* LaunchScreen.storyboard */; };
+		3CD04B4F204738D800698BFE /* Group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD04B4E204738D800698BFE /* Group.swift */; };
+		3CD04B5120473F4100698BFE /* AeroWeatherJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CD04B5020473F4100698BFE /* AeroWeatherJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3CD04B43204737E300698BFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CD04B46204737E300698BFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CD04B48204737E300698BFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CD04B4E204738D800698BFE /* Group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group.swift; sourceTree = "<group>"; };
+		3CD04B5020473F4100698BFE /* AeroWeatherJSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AeroWeatherJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				3CD04B3A204737E300698BFE /* AppDelegate.swift */,
 				3CD04B3C204737E300698BFE /* MasterViewController.swift */,
 				3CD04B3E204737E300698BFE /* DetailViewController.swift */,
+				3CD04B5020473F4100698BFE /* AeroWeatherJSON.swift */,
+				3CD04B4E204738D800698BFE /* Group.swift */,
 				3CD04B40204737E300698BFE /* Main.storyboard */,
 				3CD04B43204737E300698BFE /* Assets.xcassets */,
 				3CD04B45204737E300698BFE /* LaunchScreen.storyboard */,
@@ -142,6 +148,8 @@
 				3CD04B3F204737E300698BFE /* DetailViewController.swift in Sources */,
 				3CD04B3D204737E300698BFE /* MasterViewController.swift in Sources */,
 				3CD04B3B204737E300698BFE /* AppDelegate.swift in Sources */,
+				3CD04B4F204738D800698BFE /* Group.swift in Sources */,
+				3CD04B5120473F4100698BFE /* AeroWeatherJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

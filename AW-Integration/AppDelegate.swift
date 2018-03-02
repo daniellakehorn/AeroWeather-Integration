@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AW-Integration
 //
-//  Created by Pascal on 28.02.18.
+//  Created by Pascal Dreer on 28.02.18.
 //  Copyright © 2018 Lakehorn AG. All rights reserved.
 //
 
